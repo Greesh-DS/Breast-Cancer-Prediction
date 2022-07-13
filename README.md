@@ -33,4 +33,3 @@ The mean, standard error and "worst" or largest (mean of the three largest value
 * Missing attribute values: none
 Class distribution: 357 benign, 212 malignant
 
-TEST
